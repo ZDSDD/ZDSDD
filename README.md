@@ -8,7 +8,5 @@
  - 🌱 TODO:
    * Kubernetes
    * More web backend stuff
-<img
-  src="https://github.com/ZDSDD/ZDSDD/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>ł
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->ł

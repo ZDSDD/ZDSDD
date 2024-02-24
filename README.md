@@ -9,4 +9,13 @@
    * Kubernetes
    * More web backend stuff
 <!--START_SECTION:waka-->
+
+```txt
+Java              4 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+JavaScript        3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+TypeScript        3 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
+Markdown          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Git Config        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+```
+
 <!--END_SECTION:waka-->

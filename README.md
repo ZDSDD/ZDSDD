@@ -4,6 +4,7 @@
  - 🎶 Metallica ⚡ , KOMBI ✨, Anna Jantar 😭, Warcraft 3 😍
  -  🦅🦅🦅 FREEDOM 🕊🕊🕊
  - 🕊🕊 🇵🇱POLAND🇵🇱  🦅🦅
+ - 🤘🤘🤘 OPEN SOURCE 🤘🤘🤘
  - 🐅 Kocur, 🧙‍♂️ Magik, ⚡ Człowiek Błyskawica
 
 

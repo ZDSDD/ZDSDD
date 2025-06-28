@@ -17,6 +17,7 @@
 > + *The Lord of the Rings* 
 > + *Gladiator* 
 > + *Léon*
+> + *The Revenant* 
 
 > [!WARNING]
 > **📚 My top tier books**

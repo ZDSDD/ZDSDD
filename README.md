@@ -1,9 +1,22 @@
+> **"Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering."**  
+> — *Yoda*
 
 ---
 
-> "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering." – Yoda
+> **"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration.  
+> I will face my fear. I will permit it to pass over me and through me.  
+> And when it has gone past I will turn the inner eye to see its path.  
+> Where the fear has gone there will be nothing. Only I will remain."**  
+> — *Frank Herbert, Dune*
 
-> "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain." ― Frank Herbert, Dune 
+---
+
+> **"I wish it need not have happened in my time,"** said Frodo.  
+> **"So do I,"** said Gandalf, **"and so do all who live to see such times.  
+> But that is not for them to decide.  
+> All we have to decide is what to do with the time that is given us."**  
+> — *J.R.R. Tolkien, The Fellowship of the Ring*
+
 ---
 
 ## hello 🙋‍♂️ I'm Sebastian (seba, sebix, sebulba, sebcio, sebuś)
@@ -43,7 +56,4 @@
 > + *The White Lotus* – Created by **Mike White**
 > + *Game of Thrones (without the last season obviously)* – Created by **David Benioff & D.B. Weiss**, based on books by **George R.R. Martin**
 
----
 
-## My fav quotes:
-// todo

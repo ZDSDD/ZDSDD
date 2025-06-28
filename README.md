@@ -1,4 +1,11 @@
-### hello 🙋‍♂️ I'm Sebastian (seba, sebix, sebulba, sebcio, sebuś)
+
+---
+
+> "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering." – Yoda
+---
+
+## hello 🙋‍♂️ I'm Sebastian (seba, sebix, sebulba, sebcio, sebuś)
+
 
  - I tried 🏃‍♀️GO🏃‍♀️ and I must say it's super cool --> ❓  🦀RUST🙏  ❔ next?? 🤔
  - 🎶 Metallica ⚡ , KOMBI ✨, Anna Jantar 😭, Warcraft 3 😍

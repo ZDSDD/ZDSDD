@@ -24,8 +24,8 @@
  - Tried 🏃‍♀️ *GO* — it's super cool
  - 🦀 Rust next? 🤔
  - 🎶 Metallica ⚡ , KOMBI ✨, Anna Jantar 😭, Warcraft 3 😍
- -  🦅🦅🦅 FREEDOM 🕊🕊🕊
- - 🕊🕊 🇵🇱POLAND🇵🇱  🦅🦅
+ - 🦅🦅🦅 FREEDOM 🕊🕊🕊
+ - 🕊🕊  🇵🇱 POLAND 🇵🇱 🦅🦅
  - 🤘🤘🤘 OPEN SOURCE 🤘🤘🤘
 
 ---

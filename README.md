@@ -19,8 +19,7 @@
 
 ---
 
-## hello 🙋‍♂️ I'm Sebastian (seba, sebix, sebulba, sebcio, sebuś)
-
+## hello 🙋‍♂️ I'm Sebastian
 
  - I tried 🏃‍♀️GO🏃‍♀️ and I must say it's super cool --> ❓  🦀RUST🙏  ❔ next?? 🤔
  - 🎶 Metallica ⚡ , KOMBI ✨, Anna Jantar 😭, Warcraft 3 😍

@@ -21,13 +21,12 @@
 
 ## hello 🙋‍♂️ I'm Sebastian
 
- - I tried 🏃‍♀️GO🏃‍♀️ and I must say it's super cool --> ❓  🦀RUST🙏  ❔ next?? 🤔
+ - Tried 🏃‍♀️ *GO* — it's super cool
+ - 🦀 Rust next? 🤔
  - 🎶 Metallica ⚡ , KOMBI ✨, Anna Jantar 😭, Warcraft 3 😍
  -  🦅🦅🦅 FREEDOM 🕊🕊🕊
  - 🕊🕊 🇵🇱POLAND🇵🇱  🦅🦅
  - 🤘🤘🤘 OPEN SOURCE 🤘🤘🤘
- - 🐅 Kocur, 🧙‍♂️ Magik, ⚡ Człowiek Błyskawica
-
 
 ---
 
